@@ -1,7 +1,6 @@
 # VRC Avatar Tracker
 
 <div align="center">
-  <img src="resources/icon.png" alt="VRC Avatar Tracker Logo" width="128" />
   
   **The Ultimate Hub for Your VRChat Avatars**
   <br />
