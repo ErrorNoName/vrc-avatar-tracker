@@ -21,26 +21,6 @@
 ### Download
 Get the latest portable Windows executable from the [Releases](#) page.
 
-### Build from Source
-If you prefer to build the application yourself, ensure you have Node.js installed.
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/vrc-avatar-tracker.git
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Run in development mode:
-   ```bash
-   npm run dev
-   ```
-4. Build the portable executable:
-   ```bash
-   npm run build:portable
-   ```
-   Or simply run the included `build.bat` file on Windows.
 
 ## 🛠️ Technology Stack
 
